@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulador Lenguajes Formales – UADY</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+</head>
+<body>
+  <div id="contenedor">
+    <div id="modos">
+      <button class="btn-modo" onclick="cambiarModo('AFD')">AFD</button>
+      <button class="btn-modo" onclick="cambiarModo('GR')">Gramática Regular</button>
+      <button class="btn-modo" onclick="cambiarModo('GLC')">GLC</button>
+      <button class="btn-modo" onclick="cambiarModo('AP')">Autómata Pila</button>
+      <button class="btn-modo" onclick="cambiarModo('MT')">Máquina Turing</button>
+    </div>
+    <div id="lienzo"></div>
+  </div>
+  <script src="sketch.js"></script>
+</body>
+</html>
