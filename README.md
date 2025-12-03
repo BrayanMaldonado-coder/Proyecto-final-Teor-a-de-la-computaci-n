@@ -65,4 +65,4 @@ Este proyecto fue desarrollado completamente en el editor online de p5.js y no r
 - **Editor p5.js:** [https://editor.p5js.org/](https://editor.p5js.org/)
 
 ---
-*Proyecto desarrollado para la materia de Teoría de la Computación • Universidad Nacional Autónoma de México*
+*Proyecto desarrollado para la materia de Teoría de la Computación • Universidad  Autónoma de Yucatán*
